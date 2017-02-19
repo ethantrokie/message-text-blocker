@@ -9,6 +9,7 @@ SETUP:
 5. Got back to the Applescript dropdown menu and select the messege-text-blocker file.
 
 THINGS THAT NEED TO BE IMPROVED
+
   Still cant click on notification and bring you to messeges
  
   Doesn't tell you who its from for group messeges

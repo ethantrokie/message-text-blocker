@@ -1,6 +1,7 @@
  Shows who a text is from but not the contents of the message in Imessege
  
 SETUP:
+
 1. download applescript file. 
 2. open Imessege Preferences
 3. Go to dropdown menu called Applescript handler and choose, "Scripts Folder"
